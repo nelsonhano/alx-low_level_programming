@@ -8,8 +8,3 @@ printf("And its form is as perfect as can be.\n");
 printf("Truly, a work of genuis, don't you agree?\n");
 return (0);
 }
-int main(void)
-{
-printf("with proper grammer, but the outcome is a piece of art,\n")
-return (0);
-}
